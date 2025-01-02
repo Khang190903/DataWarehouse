@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-3V19NGEK.brazilianecommerceDW"
+  DTS:DTSID="{F822C1AF-13EA-4375-A6E7-638F4CD2F9F1}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-3V19NGEK;Initial Catalog=brazilianecommerceDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-BrazilianECommerce Integration Services-{F822C1AF-13EA-4375-A6E7-638F4CD2F9F1}LAPTOP-3V19NGEK.brazilianecommerceDW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
